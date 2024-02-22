@@ -6,7 +6,7 @@ Slide numbered tiles on a grid to combine them to create a tile with the number 
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/2048.git`
+1. `git clone https://github.com//BoddepallyVenkatesh06/Slide-Number.git`
 
 2. `cd 2048`
 
